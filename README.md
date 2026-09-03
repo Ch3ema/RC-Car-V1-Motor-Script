@@ -5,9 +5,9 @@ controlled over BLE from a phone. Differential steering, variable speed
 from a slider, plus a headlight and horn.
 
 
-image 1: <img width="3024" height="4032" alt="IMG_2378" src="https://github.com/user-attachments/assets/92079863-1a7d-42f2-b333-b7cb9ce5477c" />
+image 1: <img width="400" alt="IMG_2378" src="https://github.com/user-attachments/assets/92079863-1a7d-42f2-b333-b7cb9ce5477c" />
 
-image 2:<img width="3024" height="4032" alt="IMG_2349" src="https://github.com/user-attachments/assets/a54f0b30-5898-4ca0-bd5f-315c76c1cfdf" />
+image 2:<img width="400" alt="IMG_2349" src="https://github.com/user-attachments/assets/a54f0b30-5898-4ca0-bd5f-315c76c1cfdf" />
 
 Motor demo video : https://github.com/user-attachments/assets/e6552586-a6c7-4ddc-b1e2-4fee13466d1f
 
