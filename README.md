@@ -9,7 +9,7 @@ image 1: <img width="3024" height="4032" alt="IMG_2378" src="https://github.com/
 
 image 2:<img width="3024" height="4032" alt="IMG_2349" src="https://github.com/user-attachments/assets/a54f0b30-5898-4ca0-bd5f-315c76c1cfdf" />
 
-Motor demo: https://github.com/user-attachments/assets/bcc7e3c2-3507-4fc7-9468-17e75f34ee67
+Motor demo video : https://github.com/user-attachments/assets/e6552586-a6c7-4ddc-b1e2-4fee13466d1f
 
 
 ## How it works
